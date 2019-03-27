@@ -1,14 +1,14 @@
 {
-  "main.css": "/voting-jp/static/css/main.fd3ffda9.chunk.css",
-  "main.js": "/voting-jp/static/js/main.79df53ff.chunk.js",
-  "main.js.map": "/voting-jp/static/js/main.79df53ff.chunk.js.map",
-  "runtime~main.js": "/voting-jp/static/js/runtime~main.d8c1c882.js",
-  "runtime~main.js.map": "/voting-jp/static/js/runtime~main.d8c1c882.js.map",
-  "static/js/2.94701c42.chunk.js": "/voting-jp/static/js/2.94701c42.chunk.js",
-  "static/js/2.94701c42.chunk.js.map": "/voting-jp/static/js/2.94701c42.chunk.js.map",
-  "index.html": "/voting-jp/index.html",
-  "precache-manifest.aedace487208b1576a6e8d96c72d0a58.js": "/voting-jp/precache-manifest.aedace487208b1576a6e8d96c72d0a58.js",
-  "service-worker.js": "/voting-jp/service-worker.js",
-  "static/css/main.fd3ffda9.chunk.css.map": "/voting-jp/static/css/main.fd3ffda9.chunk.css.map",
-  "static/media/logo-white.svg": "/voting-jp/static/media/logo-white.e59b3ac9.svg"
+  "main.css": "/voting-ko/static/css/main.fd3ffda9.chunk.css",
+  "main.js": "/voting-ko/static/js/main.a04e8843.chunk.js",
+  "main.js.map": "/voting-ko/static/js/main.a04e8843.chunk.js.map",
+  "runtime~main.js": "/voting-ko/static/js/runtime~main.8013f89d.js",
+  "runtime~main.js.map": "/voting-ko/static/js/runtime~main.8013f89d.js.map",
+  "static/js/2.94701c42.chunk.js": "/voting-ko/static/js/2.94701c42.chunk.js",
+  "static/js/2.94701c42.chunk.js.map": "/voting-ko/static/js/2.94701c42.chunk.js.map",
+  "index.html": "/voting-ko/index.html",
+  "precache-manifest.ba4192b6aa3724e7b264e1c7cfc19a2f.js": "/voting-ko/precache-manifest.ba4192b6aa3724e7b264e1c7cfc19a2f.js",
+  "service-worker.js": "/voting-ko/service-worker.js",
+  "static/css/main.fd3ffda9.chunk.css.map": "/voting-ko/static/css/main.fd3ffda9.chunk.css.map",
+  "static/media/logo-white.svg": "/voting-ko/static/media/logo-white.e59b3ac9.svg"
 }
