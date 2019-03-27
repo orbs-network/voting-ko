@@ -1,14 +1,12 @@
 {
-  "main.css": "/voting-ko/static/css/main.d0366023.chunk.css",
-  "main.js": "/voting-ko/static/js/main.126a3768.chunk.js",
-  "main.js.map": "/voting-ko/static/js/main.126a3768.chunk.js.map",
+  "main.js": "/voting-ko/static/js/main.a02a561a.chunk.js",
+  "main.js.map": "/voting-ko/static/js/main.a02a561a.chunk.js.map",
   "runtime~main.js": "/voting-ko/static/js/runtime~main.8013f89d.js",
   "runtime~main.js.map": "/voting-ko/static/js/runtime~main.8013f89d.js.map",
-  "static/js/2.0d52ae38.chunk.js": "/voting-ko/static/js/2.0d52ae38.chunk.js",
-  "static/js/2.0d52ae38.chunk.js.map": "/voting-ko/static/js/2.0d52ae38.chunk.js.map",
+  "static/js/2.8c92f59d.chunk.js": "/voting-ko/static/js/2.8c92f59d.chunk.js",
+  "static/js/2.8c92f59d.chunk.js.map": "/voting-ko/static/js/2.8c92f59d.chunk.js.map",
   "index.html": "/voting-ko/index.html",
-  "precache-manifest.7b7db497039e1301a634cddb47380ac2.js": "/voting-ko/precache-manifest.7b7db497039e1301a634cddb47380ac2.js",
+  "precache-manifest.5c8fa266f7ff3b86a98043ec720affe4.js": "/voting-ko/precache-manifest.5c8fa266f7ff3b86a98043ec720affe4.js",
   "service-worker.js": "/voting-ko/service-worker.js",
-  "static/css/main.d0366023.chunk.css.map": "/voting-ko/static/css/main.d0366023.chunk.css.map",
   "static/media/logo-white.svg": "/voting-ko/static/media/logo-white.e59b3ac9.svg"
 }
