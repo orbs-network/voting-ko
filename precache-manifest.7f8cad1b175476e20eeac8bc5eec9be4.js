@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/voting-ko/static/js/runtime~main.8013f89d.js"
   },
   {
-    "revision": "ff08eba3bc56eafc55fa",
-    "url": "/voting-ko/static/js/main.ff08eba3.chunk.js"
+    "revision": "33697f224888447aa688",
+    "url": "/voting-ko/static/js/main.33697f22.chunk.js"
   },
   {
     "revision": "94701c42409ab245df9b",
     "url": "/voting-ko/static/js/2.94701c42.chunk.js"
   },
   {
-    "revision": "ff08eba3bc56eafc55fa",
+    "revision": "33697f224888447aa688",
     "url": "/voting-ko/static/css/main.fd3ffda9.chunk.css"
   },
   {
-    "revision": "c8ad2c1ca938aed26f84f27b671a8a33",
+    "revision": "4883b60fce5a65800177e49425f6b0b6",
     "url": "/voting-ko/index.html"
   }
 ];
