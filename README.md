@@ -1,1 +1,1 @@
-## This site is deprecated, pleaes go to https://orbs-network.github.io/voting/ko/
+## This site is deprecated, please go to https://orbs-network.github.io/voting/ko/
